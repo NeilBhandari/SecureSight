@@ -1,5 +1,5 @@
 
-# Live-AI-Surveillance-
+# SecureSight
 =======
 # Live AI Surveillance
 Created by Neil Bhandari - Solo Project
