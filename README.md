@@ -1,13 +1,6 @@
-# Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+# Live-AI-Surveillance-
+=======
+# Live AI Surveillance
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+This project addresses the hackathon’s Hard Track by combining AI and blockchain to create a secure, decentralized police body camera prototype. It uses TensorFlow.js with COCO-SSD and MoveNet models to detect weapons, people, and specific actions (like “hands up”) in real-time through webcam footage. Each event is automatically logged onto an Ethereum smart contract, guaranteeing tamper-proof and transparent records. The sleek, police-themed interface displays these detection events live, sorted clearly into weapon, people, and action categories, each updating dynamically alongside a timestamp. For easy documentation and audits, users can export logs directly as PDF reports. The system demonstrates how decentralized AI paired with blockchain technology can enhance accountability and security in critical areas like law enforcement surveillance.
