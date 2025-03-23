@@ -16,3 +16,17 @@ cd client
 
 npm start
 
+
+
+Built With
+React.js
+
+TensorFlow.js
+
+Solidity
+
+Ethereum (Hardhat, Ethers.js)
+
+COCO-SSD and MoveNet AI models
+
+JavaScript
