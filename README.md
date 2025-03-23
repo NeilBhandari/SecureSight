@@ -8,7 +8,10 @@ This project addresses the hackathon’s Hard Track by combining AI and blockcha
 
 To run:
 npx hardhat node
+
 npx hardhat run scripts/Deploy.js --network localhost
+
 cd client
+
 npm start
 
